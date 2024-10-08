@@ -18,9 +18,9 @@ Use Opening operation
 Use Closing Operation
  
 ## Program:
-# Developed By: GIRITHICK ROHAN N
+Developed By: GIRITHICK ROHAN N
 
-# Reg.NO: 212223230063
+Reg.NO: 212223230063
 
 # Import the necessary packages
 ``` 
